@@ -2,20 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="36556" started-at="2020-11-25T19:11:52Z" finished-at="2020-11-25T19:12:29Z">
+  <suite name="Default suite" duration-ms="38455" started-at="2020-12-01T18:24:49Z" finished-at="2020-12-01T18:25:27Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="36556" started-at="2020-11-25T19:11:52Z" finished-at="2020-11-25T19:12:29Z">
+    <test name="Default test" duration-ms="38455" started-at="2020-12-01T18:24:49Z" finished-at="2020-12-01T18:25:27Z">
       <class name="com.eddiebauer.testcase.TC01_ClickHomePage">
-        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.eddiebauer.testcase.TC01_ClickHomePage@7d9d1a19]" name="preCondition" is-config="true" duration-ms="7632" started-at="2020-11-25T19:11:52Z" finished-at="2020-11-25T19:12:00Z">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.eddiebauer.testcase.TC01_ClickHomePage@57baeedf]" name="preCondition" is-config="true" duration-ms="8801" started-at="2020-12-01T18:24:49Z" finished-at="2020-12-01T18:24:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preCondition -->
-        <test-method status="PASS" signature="testClickViewAllOffers()[pri:0, instance:com.eddiebauer.testcase.TC01_ClickHomePage@7d9d1a19]" name="testClickViewAllOffers" duration-ms="28890" started-at="2020-11-25T19:12:00Z" finished-at="2020-11-25T19:12:29Z">
+        <test-method status="PASS" signature="preTest()[pri:0, instance:com.eddiebauer.testcase.TC01_ClickHomePage@57baeedf]" name="preTest" is-config="true" duration-ms="182" started-at="2020-12-01T18:24:57Z" finished-at="2020-12-01T18:24:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method status="PASS" signature="testClickViewAllOffers()[pri:0, instance:com.eddiebauer.testcase.TC01_ClickHomePage@57baeedf]" name="testClickViewAllOffers" duration-ms="28948" started-at="2020-12-01T18:24:58Z" finished-at="2020-12-01T18:25:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testClickViewAllOffers -->
-        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.eddiebauer.testcase.TC01_ClickHomePage@7d9d1a19]" name="postCondition" is-config="true" duration-ms="0" started-at="2020-11-25T19:12:29Z" finished-at="2020-11-25T19:12:29Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.eddiebauer.testcase.TC01_ClickHomePage@57baeedf]" name="tearDown" is-config="true" duration-ms="490" started-at="2020-12-01T18:25:26Z" finished-at="2020-12-01T18:25:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.eddiebauer.testcase.TC01_ClickHomePage@57baeedf]" name="postCondition" is-config="true" duration-ms="1" started-at="2020-12-01T18:25:27Z" finished-at="2020-12-01T18:25:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postCondition -->
